@@ -1,0 +1,194 @@
+{
+  "basic_info": {
+    "name": "Smriti Jojo",
+    "titles": ["Front-end Developer", "Full Stack Engineer"],
+    "socials": [
+      {
+        "icon": "mdi:linkedin",
+        "url": "https://www.linkedin.com/in/smriti-jojo/"
+      },
+      {
+        "icon": "mdi:github",
+        "url": "https://github.com/smritijojo-eupheus"
+      }
+    ]
+  },
+  "about_me": {
+    "title": "About me",
+    "greeting": "Hi",
+    "content": " 👋 I'm Smriti Jojo. I'm working with newest front-end frameworks like ReactJs,Nextjs . What you are seeing now is portfolio website of my profile.I'm currently working as Junior Web Developer.Looking for a role which can enhance my profile with wearing various hats in terms of technology.Thank you 💜",
+    "image": "myProfile.jpg",
+    "tech_stacks": ["devicon:react", "devicon:nodejs", "devicon:java"]
+  },
+  "projects": {
+    "title": "projects",
+    "projects": [
+      {
+        "title": "E-commerce Website",
+        "startDate": "2022",
+        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "images": ["images/Ecommerce/Ecommerce.jpg"],
+
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "mdi:angular",
+            "name": "React"
+          },
+          {
+            "class": "teenyicons:typescript-outline",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon:csharp",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Blog website",
+        "startDate": "2023",
+        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "images": ["images/Blog/blog2.jpg"],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "mdi:react",
+            "name": "React"
+          },
+          {
+            "class": "teenyicons:javascript-outline",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Tea Website",
+        "startDate": "2023",
+        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "images": ["images/Tea/tea2.jpg"],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "mdi:angular",
+            "name": "Angular"
+          },
+          {
+            "class": "teenyicons:typescript-outline",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon:csharp",
+            "name": "C#"
+          }
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "title": "Skills",
+    "icons": [
+      {
+        "name": "HTML 5",
+        "class": "ri:html5-fill",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "teenyicons:css3-solid",
+        "level": "95"
+      },
+      {
+        "name": "React",
+        "class": "mdi:react",
+        "level": "80"
+      },
+      {
+        "name": "Node Js",
+        "class": "mdi:nodejs",
+        "level": "90"
+      },
+      {
+        "name": "TypeScript",
+        "class": "teenyicons:typescript-solid",
+        "level": "90"
+      },
+      {
+        "name": "JavaScript",
+        "class": "teenyicons:javascript-solid",
+        "level": "70"
+      },
+
+      {
+        "name": "Material UI",
+        "class": "mdi:material-ui",
+        "level": "85"
+      },
+      {
+        "name": "Tailwind",
+        "class": "mdi:tailwind",
+        "level": "65"
+      },
+      {
+        "name": "MySql",
+        "class": "fontisto:mysql",
+        "level": "60"
+      },
+      {
+        "name": "PostgreSql",
+        "class": "simple-icons:postgresql",
+        "level": "60"
+      },
+      {
+        "name": "Express",
+        "class": "skill-icons:expressjs-light",
+        "level": "60"
+      },
+
+      {
+        "name": "Java",
+        "class": "logos:java",
+        "level": "60"
+      }
+    ]
+  },
+  "experience": {
+    "title": "Experience",
+    "experiences": [
+      {
+        "company": "Eupheus Learning",
+        "title": "Web developer",
+        "years": "12.2022 - present",
+        "mainTech": "React ",
+        "mainTechIcon": "mdi:react",
+        "technologies": [
+          "React",
+          "Redux",
+          "Material UI",
+          "JavaScript",
+          "NodeJs",
+          "REST API",
+          "Java",
+          "Spring Boot"
+        ]
+      },
+      {
+        "company": "Wipro Technologies",
+        "title": "Java development Intern",
+        "years": "03.2022 - 05.2022",
+        "mainTech": "Java",
+        "mainTechIcon": "bxl:java",
+        "technologies": ["Java", "Spring Boot"]
+      },
+      {
+        "company": "Krishna SoftCorp",
+        "title": "Full Stack Developer Intern",
+        "years": "05.2021 - 07.2021",
+        "mainTech": "MERN",
+        "mainTechIcon": "bxl:react",
+        "technologies": ["HTML", "CSS", "React", "Node", "Express", "MongoDb"]
+      }
+    ]
+  },
+  "copyright": "Copyright"
+}
