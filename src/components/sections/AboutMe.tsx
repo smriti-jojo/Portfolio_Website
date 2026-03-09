@@ -57,7 +57,7 @@ const AboutMe = () => {
               </span>
               <br />
               <br />
-              <p className="text-sm font-medium dark:text-white">
+              <p className="text-sm font-medium dark:text-white whitespace-pre">
                 {t("about_me.content")}
               </p>
             </div>

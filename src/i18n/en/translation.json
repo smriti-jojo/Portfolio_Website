@@ -16,23 +16,23 @@
   "about_me": {
     "title": "About me",
     "greeting": "Hi",
-    "content": " 👋 I'm Smriti Jojo. I'm working with newest front-end frameworks like ReactJs,Nextjs . What you are seeing now is portfolio website of my profile.I'm currently working as Junior Web Developer.Looking for a role which can enhance my profile with wearing various hats in terms of technology.Thank you 💜",
+    "content": "Hi, I'm Smriti Jojo 👋 I turn complex data into interfaces people actually understand.\n Frontend Developer · React · Next.js · TypeScript \n 3+ years · 12 shipped projects · EdTech, E-Commerce & AI \n Currently open to frontend roles 💜",
     "image": "myProfile.jpg",
     "tech_stacks": ["devicon:react", "devicon:nodejs", "devicon:java"]
   },
   "projects": {
     "title": "projects",
     "projects": [
-      {
-        "title": "E-commerce Website",
-        "startDate": "2022",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
-        "images": ["images/Ecommerce/Ecommerce.jpg"],
+       {
+        "title": "Online Business-for-Sale & Investment Platform",
+        "startDate": "2025",
+        "description": "Developed an online deal-making platform connecting small and medium businesses with investors, buyers, lenders, and franchise partners. The platform enables users to list businesses for sale, seek funding, or explore franchise opportunities, while offering verified profiles, detailed business summaries, and secure communication channels to facilitate mergers, acquisitions, and investments.",
+        "images": ["images/Business/Website2_SS.png"],
 
-        "url": "https://github.com",
+        "url": "https://bizplorers.vercel.app/",
         "technologies": [
           {
-            "class": "mdi:angular",
+            "class": "logos:react",
             "name": "React"
           },
           {
@@ -40,8 +40,154 @@
             "name": "TypeScript"
           },
           {
-            "class": "devicon:csharp",
-            "name": "C#"
+            "class": "logos:tailwindcss-icon",
+            "name": "Tailwind CSS"
+          },
+           {
+            "class": "logos:redux",
+            "name": "Redux"
+          },
+           {
+            "class": "logos:chartjs",
+            "name": "ChartJs"
+          },
+           {
+            "class": "logos:material-ui",
+            "name": "Material UI"
+          },
+           {
+    "class": "logos:nodejs-icon",
+    "name": "Node.js"
+  },
+  {
+    "class": "simple-icons:express",
+    "name": "Express.js"
+  },
+  {
+    "class": "logos:sequelize",
+    "name": "Sequelize"
+  },
+  {
+    "class": "logos:postgresql",
+    "name": "PostgreSQL"
+  },
+  {
+    "class": "simple-icons:jsonwebtokens",
+    "name": "JWT"
+  },
+  {
+    "class": "logos:nodemailer",
+    "name": "Nodemailer"
+  }
+        ]
+      },
+
+        {
+        "title": "LLM Visibility & Intelligence Dashboard",
+        "startDate": "2025",
+        "description": "Built an insights-first platform that visualizes how brands show up across LLMs and helps them optimize for visibility, relevancy, and sentiment in real-time. Real time comparison with potential competitors and know where they lack through charts and graphs.",
+        "images": ["images/LLM/Dashboard_SS.png"],
+
+        "url": "https://github.com",
+         "technologies": [
+          {
+            "class": "logos:react",
+            "name": "React"
+          },
+          {
+            "class": "teenyicons:typescript-outline",
+            "name": "TypeScript"
+          },
+          {
+            "class": "logos:tailwindcss-icon",
+            "name": "Tailwind CSS"
+          },
+           {
+            "class": "logos:redux",
+            "name": "Redux"
+          },
+           {
+            "class": "logos:chartjs",
+            "name": "ChartJs"
+          },
+           {
+            "class": "logos:material-ui",
+            "name": "Material UI"
+          }
+        ]
+      },
+
+        {
+        "title": "CRM Application",
+        "startDate": "2024",
+        "description": "A CRM application developed for Sales team members. They can manage their day-to-day activities, i.e. Local travel plan, School Visits, Document Management, School Management, Partner Management & Order Management.",
+        "images": ["images/CRM/CRM.jpg"],
+
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "logos:react",
+            "name": "React"
+          },
+        
+          {
+            "class": "teenyicons:typescript-outline",
+            "name": "TypeScript"
+          },
+          {
+            "class": "logos:tailwindcss-icon",
+            "name": "Tailwind CSS"
+          },
+           {
+            "class": "logos:redux",
+            "name": "Redux"
+          },
+           {
+            "class": "logos:chartjs",
+            "name": "ChartJs"
+          },
+           {
+            "class": "logos:material-ui",
+            "name": "Material UI"
+          },
+            {
+  "class": "mdi:api",
+  "name": "API Integration"
+}
+        ]
+      },
+
+      {
+        "title": "E-commerce Website",
+        "startDate": "2023",
+        "description": "A dynamic fashion marketplace connecting vendors and shoppers in one seamless platform. With a dedicated vendor dashboard, sellers can effortlessly manage their products, inventory, and sales. Shoppers can explore detailed product descriptions and a wide range of fashion items, from trendy outfits to timeless accessories.",
+        "images": ["images/Ecommerce/Ecommerce.jpg"],
+
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "logos:react",
+            "name": "React"
+          },
+          {
+            "class": "teenyicons:typescript-outline",
+            "name": "TypeScript"
+          },
+          {
+            "class": "logos:tailwindcss-icon",
+            "name": "Tailwind CSS"
+          },
+           {
+            "class": "logos:redux",
+            "name": "Redux"
+          },
+           {
+            "class": "logos:chartjs",
+            "name": "ChartJs"
+          },
+           {
+            "class": "logos:material-ui",
+            "name": "Material UI"
           }
         ]
       },
@@ -156,35 +302,43 @@
     "title": "Experience",
     "experiences": [
       {
-        "company": "Eupheus Learning",
-        "title": "Web developer",
-        "years": "12.2022 - present",
+        "company": "  FigureCircle",
+        "title": "Frontend Developer",
+        "years": "04/2025 - present",
         "mainTech": "React ",
         "mainTechIcon": "mdi:react",
-        "technologies": [
+         "technologies": [
           "React",
+          "TypeScript",
           "Redux",
           "Material UI",
           "JavaScript",
-          "NodeJs",
-          "REST API",
-          "Java",
-          "Spring Boot"
+          "API Integration"
+        
         ]
+       
       },
       {
-        "company": "Wipro Technologies",
-        "title": "Java development Intern",
-        "years": "03.2022 - 05.2022",
-        "mainTech": "Java",
-        "mainTechIcon": "bxl:java",
-        "technologies": ["Java", "Spring Boot"]
-      },
-      {
-        "company": "Krishna SoftCorp",
-        "title": "Full Stack Developer Intern",
-        "years": "05.2021 - 07.2021",
+        "company": "Self-Employed",
+        "title": "Freelance Full Stack Developer" ,
+        "years": "04.2024 - 03.2025",
         "mainTech": "MERN",
+        "mainTechIcon": "mdi:stack-overflow",
+        "technologies": ["React", "NodeJs","Postgres","Express"]
+      },
+      {
+        "company": "Smartifai(Contract)",
+        "title": "Full Stack Developer ",
+        "years": "01.2024 - 04.2024",
+        "mainTech": "MERN",
+        "mainTechIcon": "bxl:react",
+        "technologies": ["React","Angular", "Node", "Express", "MongoDb"]
+      },
+       {
+        "company": "Eupheus Learning(Contract)",
+        "title": "Software Developer Consultant ",
+        "years": "12.2022- 12.2023",
+        "mainTech": "React",
         "mainTechIcon": "bxl:react",
         "technologies": ["HTML", "CSS", "React", "Node", "Express", "MongoDb"]
       }
